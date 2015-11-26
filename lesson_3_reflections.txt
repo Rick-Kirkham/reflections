@@ -1,1 +1,2 @@
-XXX
+When would you want to use a remote repository rather than keeping all your work local?
+When someone who doesn't have access to my machine is working on the same repo
